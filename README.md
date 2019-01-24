@@ -1,9 +1,9 @@
 # Asteroids invaders
 
-It's a game similar to space invader but insted of space invaders you have to destroy asteroids. 
+It's a game similar to space invader but instead of space invaders you have to destroy asteroids. 
 
 ## Getting Started
-In order to run the game, it is possible to download it, unpack the zip content on any forlder and run the index.html file. It is also possible to clone the folder with the following comand in terminal.
+In order to run the game, it is possible to download it, unpack the zip content on any folder and run the index.html file. It is also possible to clone the folder with the following comand in terminal.
 
 > $git clone https://github.com/Jpserrat/Asteroids
 
@@ -14,7 +14,7 @@ In order to run the game, it is possible to download it, unpack the zip content 
 
 ## Improvements 
 * Make the ship move like the asteroids game ship.
-* Make particles for when the asteroid is destroyed.
+* Make particles, for when the asteroid is destroyed.
 
 ## Built With
 
